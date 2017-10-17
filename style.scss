@@ -18,10 +18,10 @@ html {
 }
 
 body {
-	background: //cdn.thinglink.me/api/image/760922170984497153/1240/10/scaletowidth;
+	background: $mediumblue;
   font: 18px/1.4 $helvetica;
-  color: #00f244
-
+  color: $darkGray;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
