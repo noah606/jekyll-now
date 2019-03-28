@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Getting through as much as possible</td>
+    <td>Getting through as much as possible S``</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
