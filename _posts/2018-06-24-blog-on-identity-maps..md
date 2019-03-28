@@ -1,5 +1,5 @@
 ---
-title: blog on robot arms
+title: blog on codecademy
 layout: post
 author: noah.moss-marks
 permalink: /blog-on-identity-maps./
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>robot arms</td>
+    <td>codecademy</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>robot arms</td>
+    <td>codecademy</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
