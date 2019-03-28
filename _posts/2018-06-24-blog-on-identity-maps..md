@@ -1,5 +1,5 @@
 ---
-title: blog on identity maps.
+title: blog on fuze boxes
 layout: post
 author: noah.moss-marks
 permalink: /blog-on-identity-maps./
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog on identity maps </td>
+    <td>Fuze box</td>
     <td>Date</td>
-    <td>24/6/18</td>
+    <td>01/01/01</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Putting our identity maps out on our desks.</td>
+    <td>Getting fuze boxes out</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Try to understand the general opinion of your peers by reading comments.</td>
+    <td>Learn something about the fuze boxes</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes. </td>
+    <td>yes</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>When i couldn't think of what to say about other peoples posters I really thought hard about what I did and didn’t like.</td>
+    <td>If i didnt realise how to do it at first i tried again</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I didn’t really use this learning habit this week.</td>
+    <td>I asked questions if i didnt understand</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>My opinion wasn’t influenced by other people’s comments.</td>
+    <td>I didnt rely on others.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I could have given a bit more of my opinion rather than doing the minimum in most cases.</td>
+    <td>I realised i could have got less distracted</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was really focused on my task and didn’t get distracted easily.</td>
+    <td>I got too distracted.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have tried to think about what other people had said about my poster and thought about what I could have changed to make almost all of my comments positive.</td>
+    <td>I could have chosen who i sat next to better.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I need to think about my comments more and see whether I could change anything next time.</td>
+    <td>Concentrate on my work better.</td>
     <td></td>
   </tr>
 </table>
