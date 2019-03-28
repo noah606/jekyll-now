@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze box</td>
+    <td>Continuing fuze boxes</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
