@@ -1,5 +1,5 @@
 ---
-title: blog on fuze boxes
+title: blog on robot arms
 layout: post
 author: noah.moss-marks
 permalink: /blog-on-identity-maps./
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>codecadamy</td>
+    <td>robot arms</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Logging on to codecadamy</td>
+    <td>robot arms</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Getting through as much as possible S``</td>
+    <td>Getting through as much as possible</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
