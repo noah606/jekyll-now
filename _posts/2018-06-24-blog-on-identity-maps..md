@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>  Robot arms</td>
+    <td>codecadamy</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Getting fuze boxes out</td>
+    <td>Logging on to codecadamy</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Learn something about the fuze boxes</td>
+    <td>Getting through as much as possible</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
